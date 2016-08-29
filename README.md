@@ -1,9 +1,14 @@
-# recode
-**Fast batch script for converting videos from variable frame rate to fixed frame rate.
+# Recode
+
+**Fast batch script for converting videos from variable frame rate to fixed frame rate.    
 Works well with ShadowPlay recordings.**
 
+These are a set of very small bat scripts to automate the process of converting variable frame
+rate videos, like ShadowPlay recordings, into fixed frame rate videos, ready for import into
+the editing software.
+
 Requires ffmpeg.exe to work, to get it for windows go to Zeranoe FFmpeg (https://ffmpeg.zeranoe.com/builds/) 
-and choose the latest static build for your architecture. 
+and choose the latest static build for your architecture.
 If necessary, please rename the executable ffmpeg.exe.
 
 Put the script and ffmpeg.exe in the same directory as your raw MP4 video files.
@@ -18,3 +23,6 @@ Current settings for encoding are:
 * preset ultrafast - Use libx264 ultra fast encoding preset   
 * c:a copy - Copy the audio from source to destination without change   
 
+Links:
+* FFmpeg - https://ffmpeg.org/
+* Zeranoe FFmpeg - https://ffmpeg.zeranoe.com/builds/
