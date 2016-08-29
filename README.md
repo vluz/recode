@@ -25,4 +25,5 @@ Current settings for encoding are:
 
 Links:
 * FFmpeg - https://ffmpeg.org/
+* ffmpeg tool documentation - https://ffmpeg.org/ffmpeg.html
 * Zeranoe FFmpeg - https://ffmpeg.zeranoe.com/builds/
