@@ -1,9 +1,7 @@
+@echo off
 REM Re-encode script for Shadow Play videos - 60FPS version
 REM The script re-encodes all the MP4 videos in the current
 REM directory and put the new video into the directory EDIT
-
-REM Supress command echoing, no output
-@echo off
 
 REM If the dir EDIT does not exist, create it.
 if not exist EDIT mkdir EDIT
