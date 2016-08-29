@@ -18,7 +18,7 @@ Current settings for encoding are:
 * hide_banner - Suppress printing the banner   
 * vsync 1 - Use constant frame rate   
 * crf 19 - Constant rate factor of 19, better video for edit   
-* r 30 - Framerate set to 30 frames per second, change to 60 for 60FPS   
+* r 30 - Framerate set to 30 frames per second(or 60 in the 60FPS version)     
 * c:v libx264 - Use libx264 for video encoding    
 * preset ultrafast - Use libx264 ultra fast encoding preset   
 * c:a copy - Copy the audio from source to destination without change   
