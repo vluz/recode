@@ -24,6 +24,6 @@ Current settings for encoding are:
 * c:a copy - Copy the audio from source to destination without change   
 
 Links:
-* FFmpeg - https://ffmpeg.org/
+* FFmpeg project - https://ffmpeg.org/
 * ffmpeg tool documentation - https://ffmpeg.org/ffmpeg.html
 * Zeranoe FFmpeg - https://ffmpeg.zeranoe.com/builds/
