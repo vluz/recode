@@ -1,3 +1,5 @@
+***VERY OLD SCRIPT, MIGHT NOT WORK OR BE RELEVANT TODAY***
+
 # Recode
 
 **Fast batch script for converting videos from variable frame rate to fixed frame rate.    
